@@ -31,6 +31,9 @@
 *.out
 *.app
 
+#ide
+.idea
+
 # CMake
 CMakeLists.txt.user
 CMakeCache.txt
